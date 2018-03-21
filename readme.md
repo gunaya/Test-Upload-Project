@@ -2,16 +2,14 @@
 
 ## Tentang Project
 
-<p align="center">Project ini merupakan project praktikum pemrograman internet kelompok 7</p><br>
-<p align="center">Program Studi Teknologi Informasi</p></br>
-<p align="center">Fakultas Teknik</p></br>
-<p align="center">Universitas Udayana</p></br>
+<p align="center">Project ini merupakan project praktikum pemrograman internet kelompok 7</p>
+<p align="center">Program Studi Teknologi Informasi</p>
+<p align="center">Fakultas Teknik</p>
+<p align="center">Universitas Udayana</p>
 
 ## Konfigurasi Project
-.env
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=bioskop
-DB_USERNAME=root
-DB_PASSWORD=
+<p>.env</p>
+
+<p>DB_DATABASE=bioskop</p>
+<p>DB_USERNAME=root</p>
+<p>DB_PASSWORD=</p>
